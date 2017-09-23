@@ -1,11 +1,12 @@
+
 # Collect-and-Clean-data--Project
 # FINAL PROJECT
 This project is intended to demmostrate ability to collect data, work with it and clean it making sure the datasets are tidy and ready for analysis.
 
 
 # DATASET DESCRIPTION
-In this project I will be using data collected form the accelerometers from the Samsung Galaxy S smartphone, a full description of this data is available at the site where the data was obtained. the link is shared below.
-
+In this project I will be using data collected form the accelerometers from the Samsung Galaxy S smartphone, a full description of this data is available at the site where the data was obtained. 
+* The link is shared below.
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 * The Original data can also be accessed:
@@ -13,7 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 
 # REQUIREMENTS
-The projject requires creation of one R script called run_analysis.R that does the following. 
+The project requires creation of one R script called run_analysis.R that does the following. 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
