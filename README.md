@@ -1,4 +1,4 @@
-:
+
 # Collect-and-Clean-data--Project
 # PROJECT DETAILS
 This project is intended to demmostrate ability to collect data, work with it and clean it making sure the datasets are tidy and ready for analysis.
@@ -13,7 +13,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
-# REQUIREMENTS
+## REQUIREMENTS
 The project requires creation of one R script called run_analysis.R that does the following. 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -21,11 +21,11 @@ The project requires creation of one R script called run_analysis.R that does th
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# OUTCOMES
+## OUTCOMES
 In sync with the requirements this project comprises:
 1. A tidy data set based on the original data set
 2. An R script called run_analysis.R for performing the analysis.
 3. A code book called CodeBook.md describeing variables, data and any transformations of work performed to clean up the data
 
-# OTHER RESOURCES
+## OTHER RESOURCES
 http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
