@@ -7,9 +7,6 @@ library(plyr)
 library(dplyr)
 library(data.table)
 #Download dataset from the web
-download.file(url = "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip",
-              destfile =getwd(), "Dataset.zip", method ="auto")
-
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(url, file.path(getwd(), "dataFiles.zip"))
 #Unzip the file
