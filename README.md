@@ -9,6 +9,8 @@ In this project I will be using data collected form the accelerometers from the 
 * The link is shared below:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
+* The link is shared below:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 * The Original data can also be accessed:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
@@ -23,9 +25,10 @@ The project requires creation of one R script called run_analysis.R that does th
 
 ## Results
 After all is done the project produced:
-1. [A tidy data.csv](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/Tidydata.csv) set based on the original data set
-2. An R script called run_analysis.R for performing the analysis.
-3. A code book called CodeBook.md describeing variables, data and any transformations of work performed to clean up the data
+1. An R script called [run_analysis.R](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/run_analysis.R) that was used to perform the analysis.
+2. A tidy csv file called [tidydata.csv](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/Tidydata.csv) based on the original data set
+3.A text file called [tidydata.txt] (https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/tidydata.txt).
+3. A code book called [CodeBook.md] (https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/CodeBook.md) describeing variables, data and any transformations of work performed to clean up the data
 
 ## Other Resources
 http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
