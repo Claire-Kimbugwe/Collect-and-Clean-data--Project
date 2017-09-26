@@ -25,8 +25,8 @@ The project requires creation of one R script called run_analysis.R that does th
 After all is done the project produced:
 1. An R script called [run_analysis.R](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/run_analysis.R) that was used to perform the analysis.
 2. A tidy csv file called [tidydata.csv](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/Tidydata.csv) based on the original data set
-3. A text file called [tidydata.txt] (https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/tidydata.txt).
-4. A code book called [CodeBook.md] (https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/CodeBook.md) describeing variables, data and any transformations of work performed to clean up the data
+3. A text file called [tidydata.txt](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/tidydata.txt).
+4. A code book called [CodeBook.md](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/CodeBook.md) describeing variables, data and any transformations of work performed to clean up the data
 
 ## Other Resources
 http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
