@@ -23,7 +23,7 @@ The project requires creation of one R script called run_analysis.R that does th
 
 ## Results
 After all is done the project produced:
-1. A tidy data set based on the original data set
+1. [A tidy data.csv](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/Tidydata.csv) set based on the original data set
 2. An R script called run_analysis.R for performing the analysis.
 3. A code book called CodeBook.md describeing variables, data and any transformations of work performed to clean up the data
 
