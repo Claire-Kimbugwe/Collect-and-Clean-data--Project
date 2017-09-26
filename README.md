@@ -7,7 +7,6 @@ This project is intended to demmostrate ability to collect data, work with it an
 ## Dataset Desccription
 In this project I will be using data collected form the accelerometers from the Samsung Galaxy S smartphone, a full description of this data is available at the site where the data was obtained. 
 * The link is shared below:
-
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 * The Original data can also be accessed:
