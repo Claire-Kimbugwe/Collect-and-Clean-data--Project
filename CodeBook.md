@@ -59,5 +59,14 @@ I also changedd the activity and subject_Number variables into factor ariables s
 ## 4. Grouping the data
 I used the melt funtion to melt the data basing on the ids of activity and Subject_number and then used the dcast function to cast the melted data into a data frame
 
+## Measurements
+Only the means ans standard deviations, were included in the new database.
+
+_The measurements are classified in two domains_:
+
+* Time-domain signals (variables prefixed by timeDomain), resulting from the capture of accelerometer and gyroscope raw signals.
+
+* Frequency-domain signals (variables prefixed by frequencyDomain), resulting from the application of a Fast Fourier Transform (FFT) to some of the time-domain signals.
+
 ## 5. Tidy Data
 the data was transformed into a tidy csv as seen [here](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/Tidydata.csv) and text file as seen [here](https://github.com/Claire-Kimbugwe/Collect-and-Clean-data--Project/blob/master/tidydata.txt)
